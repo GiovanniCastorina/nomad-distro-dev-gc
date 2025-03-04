@@ -4,3 +4,9 @@
 [submodule "packages/nomad-simulations"]
 	path = packages/nomad-simulations
 	url = https://github.com/nomad-coe/nomad-simulations.git
+[submodule "nomad-plugin-qutip"]
+	path = nomad-plugin-qutip
+	url = https://github.com/GiovanniCastorina/nomad-plugin-qutip.git
+[submodule "packages/nomad-plugin-qutip"]
+	path = packages/nomad-plugin-qutip
+	url = https://github.com/GiovanniCastorina/nomad-plugin-qutip.git
